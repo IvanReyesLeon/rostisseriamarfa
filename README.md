@@ -1,5 +1,7 @@
 # Rostisseria MARFA - Website
 
+[![GitHub](https://img.shields.io/badge/GitHub-IvanReyesLeon/rostisseriamarfa-blue)](https://github.com/IvanReyesLeon/rostisseriamarfa)
+
 Una web completa para la Rostisseria MARFA construida con React, Vite y TailwindCSS.
 
 ## 🚀 Inicio Rápido

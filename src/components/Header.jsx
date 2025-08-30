@@ -26,8 +26,9 @@ const Header = () => {
       <nav className="bg-white px-4 py-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           {/* Logo */}
-          <Link to="/" className="text-2xl font-bold text-gray-800 hover:text-gray-600 transition-colors">
-            Rostisseria MARFA
+          <Link to="/" className="flex items-center hover:opacity-80 transition-opacity">
+            <img src="/images/logo.png" alt="Rostisseria MARFA Logo" className="h-12 w-auto mr-2" />
+            <span className="text-2xl font-bold text-gray-800">Rostisseria MARFA</span>
           </Link>
 
           {/* Desktop Navigation */}
