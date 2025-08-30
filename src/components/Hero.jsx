@@ -10,7 +10,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
-          Pollos a l&apos;ast en Ripollet. Tradición, sabor y calidad.
+          Tradición, sabor y calidad.
         </p>
 
         {/* CTA Button */}
@@ -19,7 +19,7 @@ export default function Hero() {
             to="/pedido"
             className="bg-white text-red-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors inline-block"
           >
-            Hacer pedido
+            Haz tu pedido
           </Link>
         </div>
 
