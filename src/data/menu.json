@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "id": "pollos",
+      "name": "Pollos",
+      "icon": "🍗",
+      "items": [
+        {
+          "id": 1,
+          "name": "Pollo Asado Entero",
+          "price": 14.50,
+          "description": "Pollo entero asado lentamente con hierbas provenzales y aceite de oliva",
+          "image": "https://picsum.photos/300/200?random=19"
+        },
+        {
+          "id": 2,
+          "name": "Medio Pollo con Patatas",
+          "price": 9.90,
+          "description": "Medio pollo asado con patatas panaderas y verduras",
+          "image": "https://picsum.photos/300/200?random=20"
+        },
+        {
+          "id": 3,
+          "name": "Pollo al Ajillo",
+          "price": 11.50,
+          "description": "Pollo troceado en salsa de ajo y perejil fresco",
+          "image": "https://picsum.photos/300/200?random=21"
+        },
+        {
+          "id": 4,
+          "name": "Pollo con Verduras",
+          "price": 10.90,
+          "description": "Pollo asado acompañado de verduras de temporada al grill",
+          "image": "https://picsum.photos/300/200?random=22"
+        }
+      ]
+    },
+    {
+      "id": "arroces",
+      "name": "Arroces",
+      "icon": "🍚",
+      "items": [
+        {
+          "id": 5,
+          "name": "Paella Marinera",
+          "price": 16.50,
+          "description": "Paella tradicional con mariscos frescos y alioli casero",
+          "image": "https://picsum.photos/300/200?random=23"
+        },
+        {
+          "id": 6,
+          "name": "Paella Mixta",
+          "price": 15.90,
+          "description": "Paella con pollo, conejo y verduras de temporada",
+          "image": "https://picsum.photos/300/200?random=24"
+        },
+        {
+          "id": 7,
+          "name": "Arroz Negro",
+          "price": 14.50,
+          "description": "Arroz con calamares en su tinta y alioli de ajo",
+          "image": "https://picsum.photos/300/200?random=25"
+        },
+        {
+          "id": 8,
+          "name": "Arroz a la Cubana",
+          "price": 9.90,
+          "description": "Arroz blanco con huevo frito y salsa de tomate",
+          "image": "https://picsum.photos/300/200?random=26"
+        }
+      ]
+    },
+    {
+      "id": "carnes",
+      "name": "Carnes",
+      "icon": "🥩",
+      "items": [
+        {
+          "id": 9,
+          "name": "Entrecot de Ternera",
+          "price": 18.90,
+          "description": "Entrecot de ternera gallega con patatas fritas",
+          "image": "https://picsum.photos/300/200?random=27"
+        },
+        {
+          "id": 10,
+          "name": "Cordero al Horno",
+          "price": 17.50,
+          "description": "Pierna de cordero asada con hierbas y patatas",
+          "image": "https://picsum.photos/300/200?random=28"
+        },
+        {
+          "id": 11,
+          "name": "Cerdo Ibérico",
+          "price": 15.90,
+          "description": "Pluma ibérica con reducción de Pedro Ximénez",
+          "image": "https://picsum.photos/300/200?random=29"
+        },
+        {
+          "id": 12,
+          "name": "Albóndigas Caseras",
+          "price": 11.50,
+          "description": "Albóndigas de ternera en salsa de tomate casera",
+          "image": "https://picsum.photos/300/200?random=30"
+        }
+      ]
+    },
+    {
+      "id": "guarniciones",
+      "name": "Guarniciones",
+      "icon": "🥔",
+      "items": [
+        {
+          "id": 13,
+          "name": "Patatas Fritas",
+          "price": 3.50,
+          "description": "Patatas fritas caseras crujientes",
+          "image": "https://picsum.photos/300/200?random=31"
+        },
+        {
+          "id": 14,
+          "name": "Ensalada Mixta",
+          "price": 4.90,
+          "description": "Ensalada de lechuga, tomate y cebolla con vinagreta",
+          "image": "https://picsum.photos/300/200?random=32"
+        },
+        {
+          "id": 15,
+          "name": "Verduras al Grill",
+          "price": 5.50,
+          "description": "Pimiento, berenjena y calabacín a la plancha",
+          "image": "https://picsum.photos/300/200?random=33"
+        },
+        {
+          "id": 16,
+          "name": "Pan con Alioli",
+          "price": 2.50,
+          "description": "Pan de pueblo con alioli casero",
+          "image": "https://picsum.photos/300/200?random=34"
+        }
+      ]
+    },
+    {
+      "id": "postres",
+      "name": "Postres",
+      "icon": "🍰",
+      "items": [
+        {
+          "id": 17,
+          "name": "Flan Casero",
+          "price": 4.50,
+          "description": "Flan de huevo con caramelo líquido",
+          "image": "https://picsum.photos/300/200?random=35"
+        },
+        {
+          "id": 18,
+          "name": "Tarta de Queso",
+          "price": 5.90,
+          "description": "Tarta de queso al horno con base de galleta",
+          "image": "https://picsum.photos/300/200?random=36"
+        },
+        {
+          "id": 19,
+          "name": "Crema Catalana",
+          "price": 4.90,
+          "description": "Crema catalana tradicional con azúcar quemado",
+          "image": "https://picsum.photos/300/200?random=37"
+        },
+        {
+          "id": 20,
+          "name": "Fruta de Temporada",
+          "price": 3.90,
+          "description": "Selección de frutas frescas de temporada",
+          "image": "https://picsum.photos/300/200?random=38"
+        }
+      ]
+    }
+  ]
+}
