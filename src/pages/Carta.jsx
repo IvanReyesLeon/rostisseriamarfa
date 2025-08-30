@@ -6,7 +6,6 @@ const Carta = () => {
 
   const categories = [
     { id: 'pollos', name: 'Pollos', icon: '🍗' },
-    { id: 'arroces', name: 'Arroces', icon: '🍚' },
     { id: 'carnes', name: 'Carnes', icon: '🥩' },
     { id: 'guarniciones', name: 'Guarniciones', icon: '🥔' },
     { id: 'postres', name: 'Postres', icon: '🍰' },
