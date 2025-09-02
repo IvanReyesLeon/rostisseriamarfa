@@ -1,4 +1,5 @@
 const DeliveryGrid = () => {
+  /*
   const deliveryServices = [
     {
       name: 'Glovo',
@@ -42,6 +43,7 @@ const DeliveryGrid = () => {
       </div>
     </section>
   )
+  */
 }
 
 export default DeliveryGrid

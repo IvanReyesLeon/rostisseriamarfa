@@ -2,83 +2,27 @@ const Menus = () => {
   const menus = [
     {
       id: 1,
-      name: "Pollo a l'ast",
-      price: "10.90€",
-      description: "Nuestro clásico, asado lentamente al fuego con el punto justo de sal.",
-      items: ["Pollo entero a l'ast"],
-      image: "/images/home/photo1.webp"
+      name: "Menú 1",
+      price: "45€",
+      description: "Ideal para familias pequeñas o reuniones con amigos.",
+      items: ["2 pollos a l’ast, 2 raciones de patatas grandes, 2 bandejas de canelones caseros, 3 tarrinas de all i oli."],
+      image: "/images/home/menu1.jpg"
     },
     {
       id: 2,
-      name: "Medio pollo",
-      price: "5.50€",
-      description: "La ración justa si no quieres el pollo entero, igual de sabroso.",
-      items: ["Medio pollo a l'ast"],
-      image: "/images/home/photo2.webp"
+      name: "Menú 2",
+      price: "55€",
+      description: "Perfecto para compartir en grupo.",
+      items: ["3 pollos a l’ast, 2 raciones de patatas grandes, 2 bandejas de canelones caseros, 3 tarrinas de all i oli."],
+      image: "/images/home/menu2.jpg"
     },
     {
       id: 3,
-      name: "Conejo a l'ast",
-      price: "15.00€",
+      name: "Menú 3",
+      price: "70€",
       description: "Carne tierna y jugosa, asada a la perfección con el sabor de siempre.",
-      items: ["Conejo a l'ast entero"],
-      image: "/images/home/photo3.webp"
-    },
-    {
-      id: 4,
-      name: "Canelones (6 unidades)",
-      price: "6.50€",
-      description: "Receta casera de toda la vida, rellenos de carne y gratinados al horno.",
-      items: ["6 canelones caseros"],
-      image: "/images/home/photo5.webp"
-    },
-    {
-      id: 5,
-      name: "Codillo a l'ast",
-      price: "5.90€",
-      description: "Un codillo jugoso con piel crujiente, hecho al punto.",
-      items: ["Codillo a l'ast"],
-      image: "/images/home/photo6.webp"
-    },
-    {
-      id: 6,
-      name: "Patatas Ración Grande (4 per.)",
-      price: "5.90€",
-      description: "Patatas doradas y crujientes, pensadas para compartir.",
-      items: ["Ración grande de patatas"],
-      image: "/images/home/photo2.webp"
-    },
-    {
-      id: 7,
-      name: "Patatas Ración Pequeña (2 per.)",
-      price: "3.90€",
-      description: "Patatas con el mismo sabor, en formato perfecto para dos.",
-      items: ["Ración pequeña de patatas"],
-      image: "/images/home/photo7.webp"
-    },
-    {
-      id: 8,
-      name: "All i oli",
-      price: "1.40€",
-      description: "El complemento imprescindible para acompañar tu pollo o tus patatas.",
-      items: ["Tarrina de all i oli"],
-      image: "/images/home/photo8.webp"
-    },
-    {
-      id: 9,
-      name: "Latas",
-      price: "1.20€",
-      description: "Refrescos bien fríos para acompañar tu comida favorita.",
-      items: ["Lata de bebida"],
-      image: "/images/home/photo9.webp"
-    },
-    {
-      id: 10,
-      name: "Bolsas",
-      price: "0.10€",
-      description: "Bolsa resistente para llevar tu pedido cómodamente.",
-      items: ["Bolsa de transporte"],
-      image: "/images/home/photo10.webp"
+      items: ["4 pollos a l’ast, 3 raciones de patatas grandes, 2 bandejas de canelones caseros, 3 tarrinas de all i oli."],
+      image: "/images/home/menu3.jpg"
     }
   ]
 

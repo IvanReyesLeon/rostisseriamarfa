@@ -19,7 +19,7 @@ export default function Hero() {
             to="/pedido"
             className="bg-white text-red-600 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-gray-100 transition-colors inline-block"
           >
-            Haz tu pedido
+            Reserva tu pedido
           </Link>
         </div>
 

@@ -7,7 +7,6 @@ import Pedido from './pages/Pedido'
 import Menus from './pages/Menus'
 import Ofertas from './pages/Ofertas'
 import Carta from './pages/Carta'
-import Especialidades from './pages/Especialidades'
 import Contacto from './pages/Contacto'
 
 function App() {
@@ -20,9 +19,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/pedido" element={<Pedido />} />
             <Route path="/menus" element={<Menus />} />
-            <Route path="/ofertas" element={<Ofertas />} />
             <Route path="/carta" element={<Carta />} />
-            <Route path="/especialidades" element={<Especialidades />} />
             <Route path="/contacto" element={<Contacto />} />
           </Routes>
         </main>

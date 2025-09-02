@@ -6,12 +6,10 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules';
 const Carousel = () => {
   const images = [
     '/images/home/photo1.webp',
-    '/images/home/photo2.webp',
-    '/images/home/photo3.webp',
-    '/images/home/photo4.webp',
-    '/images/home/photo5.webp',
+    '/images/home/photo2.jpeg',
+    '/images/home/photo1.jpeg',
+    '/images/home/photo5.jpeg',
     '/images/home/photo6.webp',
-    '/images/home/photo7.webp',
   ];
 
   return (

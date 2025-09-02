@@ -9,9 +9,7 @@ const Header = () => {
     { path: '/', label: 'Inicio' },
     { path: '/pedido', label: 'Pedido' },
     { path: '/menus', label: 'Menús' },
-    { path: '/ofertas', label: 'Ofertas' },
     { path: '/carta', label: 'Carta' },
-    { path: '/especialidades', label: 'Especialidades' },
     { path: '/contacto', label: 'Contacto' },
   ]
 
@@ -19,7 +17,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 bg-white shadow-md">
       {/* Top bar with hours */}
       <div className="bg-gray-800 text-white text-sm py-2 px-4 text-center">
-        <p>Jueves y Viernes: 10:00 a 15:00 | Sábados, Domingos y Festivos: 09:00 a 15:00</p>
+        <p>Sábados, Domingos y Festivos: 09:00 a 15:30</p>
       </div>
 
       {/* Main navigation */}

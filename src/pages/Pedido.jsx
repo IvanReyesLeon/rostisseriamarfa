@@ -3,7 +3,7 @@ const Pedido = () => {
     <div className="py-16 px-4">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold text-center mb-12 text-gray-800">
-          Hacer Pedido
+          Reserva tu Pedido
         </h1>
 
         <div className="bg-white rounded-lg shadow-lg p-8">
@@ -14,7 +14,7 @@ const Pedido = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Teléfono */}
             <div className="text-center p-6 border border-gray-200 rounded-lg hover:border-red-300 transition-colors">
               <div className="text-4xl mb-4">📞</div>
@@ -27,8 +27,8 @@ const Pedido = () => {
                 935 94 01 31
               </a>
             </div>
-
-            {/* Delivery Apps */}
+            {/*
+            {/* Delivery Apps 
             <div className="text-center p-6 border border-gray-200 rounded-lg hover:border-red-300 transition-colors">
               <div className="text-4xl mb-4">📱</div>
               <h3 className="text-xl font-semibold mb-2">Apps de delivery</h3>
@@ -39,11 +39,11 @@ const Pedido = () => {
                 <div className="text-sm">🍽️ JustEat</div>
               </div>
             </div>
-
+            */}
             {/* Recogida en tienda */}
             <div className="text-center p-6 border border-gray-200 rounded-lg hover:border-red-300 transition-colors">
               <div className="text-4xl mb-4">🏪</div>
-              <h3 className="text-xl font-semibold mb-2">Recogida en tienda</h3>
+              <h3 className="text-xl font-semibold mb-2">Reservar en tienda</h3>
               <p className="text-gray-600 mb-4">Ven a recogerlo personalmente</p>
               <a
                 href="https://maps.app.goo.gl/nKPY7cMcXgZSLL7Y6"
@@ -61,12 +61,8 @@ const Pedido = () => {
             <h3 className="text-xl font-semibold mb-4 text-center">Horarios de atención</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-center">
               <div>
-                <h4 className="font-semibold text-gray-700">Jueves y Viernes</h4>
-                <p className="text-gray-600">10:00 - 15:00</p>
-              </div>
-              <div>
                 <h4 className="font-semibold text-gray-700">Sábados, Domingos y Festivos</h4>
-                <p className="text-gray-600">09:00 - 15:00</p>
+                <p className="text-gray-600">09:00 - 15:30</p>
               </div>
             </div>
           </div>
