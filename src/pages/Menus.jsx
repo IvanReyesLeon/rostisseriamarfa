@@ -20,7 +20,7 @@ const Menus = () => {
       id: 3,
       name: "Menú 3",
       price: "70€",
-      description: "Carne tierna y jugosa, asada a la perfección con el sabor de siempre.",
+      description: "Pensado para las ocasiones más especiales.",
       items: ["4 pollos a l’ast, 3 raciones de patatas grandes, 2 bandejas de canelones caseros, 3 tarrinas de all i oli."],
       image: "/images/home/menu3.jpg"
     }
