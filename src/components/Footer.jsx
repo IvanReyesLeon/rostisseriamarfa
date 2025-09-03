@@ -11,7 +11,7 @@ const Footer = () => {
   ]
 
   const handleComoLlegar = () => {
-    window.open('https://maps.google.com/?q=79,+Rambla+De+Sant+Jordi,+08291,+Ripollet+(Barcelona)', '_blank')
+    window.open('https://maps.app.goo.gl/pK3PySsvm4qXnsbV6', '_blank')
   }
 
   return (
